@@ -99,7 +99,7 @@ const CHARS: &[char] = &[
 ];
 
 pub const RENDEZVOUS_SERVERS: &[&str] = &["rustdesk.firo1603.com"];
-pub const RS_PUB_KEY: &str = "firo1603/hbb_common";
+pub const RS_PUB_KEY: &str = "yLhtx4p9LTceZOCR6bIZFp9VyevCiYBmfankMJyL2K0=";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
 pub const RELAY_PORT: i32 = 21117;
